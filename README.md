@@ -1,1 +1,1 @@
-# UTS_Kecerdasan Buatan_Kelompok 10
+# UTS_Kecerdasan_Buatan_Kelompok_10
